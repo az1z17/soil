@@ -1,0 +1,96 @@
+.detail{
+    width: 100%;
+    padding-right: 18%;
+    padding-left:20%;
+    margin-top: 33px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 870px;
+    background: #222;
+}
+.artBoard{
+    display: flex;
+    margin-top: px;
+}
+.okey{
+    color: #fff;
+    font-size: 54px;
+    line-height: 1.1;
+    font-weight: 500;
+    padding-top: 50px;
+}
+.elemText {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    position: relative;
+    bottom: 20px;
+    width: 100%;
+}
+.experience {
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+    margin-top: 20px;
+    position: relative;
+    top: 10px;
+}
+.ukrText{
+    color: #fff;
+    font-size: 32px;
+    line-height: 1.2;
+    font-weight: 500;
+    position: relative;
+    top: 10px;
+}
+.data{
+    color: #96a1aa;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+    
+}
+.mb{
+    position: relative;
+    top: 12px;
+}
+.mt{
+    position: relative;
+    top: 10px;
+}
+.mt2{
+    position: relative;
+    top: 15px;
+}
+.mt3{
+    position: relative;
+    top: 18px;
+}
+.popular hr {
+    position: relative;
+    bottom: 10px;
+    background: black;
+}
+.popular h1{
+    color: #fff;
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.monitorText:first-child{
+    color: #96a1aa;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+}
+.infText{
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.3;
+    font-weight: 500;
+    
+}
+.space{
+    padding-top: 35px;
+}

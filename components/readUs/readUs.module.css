@@ -1,0 +1,76 @@
+.container{
+    width: 100%;
+    padding-right: 18%;
+    padding-left:20%;
+    margin-top: 33px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.titleText{
+    font-size: 32px;
+    font-weight: 500;
+    color: #000;
+    line-height: 1.23;
+    text-align: center;
+    padding-top: 50px;
+}
+.photoCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    font-size: 23px;
+    font-weight: 500;
+    height: 84px;
+    line-height: 1.23;
+    color: #000;
+    padding-top: 15px;
+}
+.mr{
+    padding-top: 40px;
+    padding-right: 35px;
+}
+.bodyMap{
+    display: flex;
+}
+.container hr{
+    background: #000;
+    margin-top: 70px;
+}
+.logoText{
+    color: #25ae60;
+}
+.moreInfBtn{
+    color:#fff;
+    font-size: 16px;
+    line-height: 1.55;
+    font-weight: 500;
+    outline: none;
+    padding: 10px 15px;
+    border-color: transparent;
+    background: #25ae60;
+    margin-top: 25px;
+}
+.textCompany {
+    color: #000;
+    font-size: 20px;
+    line-height: 1.3;
+    font-weight: 400;
+}
+.h2
+{
+    color: #000;
+    font-size: 54px;
+    line-height: 1.1;
+    margin-top: 90px;
+    font-weight: 500;
+}
+.map{
+    padding-left: 80px;
+    margin-top: 60px;
+}
+.map:hover{
+    transform: translateY(-10px);
+    transition-duration: 2s;
+}
